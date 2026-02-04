@@ -15,8 +15,6 @@ namespace InClassWorkTheory
             // wazaaaaaaaaa from github
             Console.WriteLine("testing");
             Console.WriteLine("gitTest2");
-            Console.WriteLine("test change 3");
-            Console.WriteLine(" commit2");
 
             Console.ReadKey();
         }
