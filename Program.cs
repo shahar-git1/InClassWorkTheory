@@ -13,7 +13,7 @@ namespace InClassWorkTheory
             string[] arr = { "First", "Second", "Third", "Fourth", "Fifth" };
             Console.WriteLine(string.Join(Environment.MachineName, arr));
 
-
+            Console.WriteLine("testing");
 
             Console.ReadKey();
         }
