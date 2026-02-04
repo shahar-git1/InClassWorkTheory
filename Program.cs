@@ -12,7 +12,7 @@ namespace InClassWorkTheory
         {
             string[] arr = { "First", "Second", "Third", "Fourth", "Fifth" };
             Console.WriteLine(string.Join(Environment.MachineName, arr));
-
+            // wazaaaaaaaaa from github
             Console.WriteLine("testing");
             Console.WriteLine("gitTest2");
 
