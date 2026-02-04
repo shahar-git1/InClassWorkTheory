@@ -14,6 +14,7 @@ namespace InClassWorkTheory
             Console.WriteLine(string.Join(Environment.MachineName, arr));
 
             Console.WriteLine("testing");
+            Console.WriteLine("gitTest2");
 
             Console.ReadKey();
         }
